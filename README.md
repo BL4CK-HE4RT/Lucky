@@ -2,12 +2,13 @@
 #
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&vCenter=true&multiline=true&width=435&height=60&lines=LUCKY+TEST++%F0%9F%98%85)](https://git.io/typing-svg)
 #
-rm -rf Lucky 
-git clone https://github.com/SAGAR-CYBER99/Lucky.git
+- rm -rf Lucky 
+- git clone https://github.com/SAGAR-CYBER99/Lucky.git
 
-cd Lucky
+- cd Lucky
 
-chmod +x *
+- chmod +x *
 
-python Testlucky.py
+- python Testlucky.py
 #
+[![Screenshot-20230923-171648.jpg](https://i.postimg.cc/ZnhVBVNP/Screenshot-20230923-171648.jpg)](https://postimg.cc/KkJnC7J4)
